@@ -2,14 +2,12 @@
  <h1 align="center">CUET Virtual Classroom</h2>
  <p align="center">CUET Virtual Classroom is an online web application made as the Lab project for CSE 300: Software Development Project.</p>
 </p>
-<p align="center">
   
 ![Main Features](https://img.shields.io/badge/Main%20features-Complete-brightgreen)
 
 ![IDE](https://img.shields.io/badge/IDE-VIsual%20Studio%20Code-blueviolet)
 ![License](https://img.shields.io/badge/License-MIT-orange)
 ![Grade](https://img.shields.io/badge/Grade-A%2B-lightgrey)
-</p>
 
 
   <p align="center">
@@ -19,7 +17,7 @@
     <a href="https://img.shields.io/badge/license-MIT-orange.svg">
       <img alt="License" src="https://img.shields.io/badge/license-MIT-orange.svg" />
     </a>
-    <a href="[https://img.shields.io/badge/license-MIT-orange.svg](https://img.shields.io/badge/Grade-A%2B-yellowgreen)">
+    <a href="https://img.shields.io/badge/Grade-A%2B-yellowgreen">
       <img alt="Grade" src="https://img.shields.io/badge/Grade-A%2B-yellowgreen" />
     </a>
     <br />
@@ -27,16 +25,14 @@
   <h4 align="center">Frameworks and Dependencies</h4>
   <p align="center">
   <a href="https://firebase.google.com/">
-      <img src="https://img.shields.io/badge/Database-Firebase-yellowgreen?style=for-the-badge&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-firebase-brown?style=for-the-badge&logo=firebase&logoColor=%2361DAFB"/>
     </a>
     <a href="https://reactjs.org/">
-      <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     </a>
-    <a href="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     </a>
-    <a href="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <a href="https://www.djangoproject.com/">
+      <img src="https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django&logoColor=%2361DAFB"/>
     </a>
     </p>
 
