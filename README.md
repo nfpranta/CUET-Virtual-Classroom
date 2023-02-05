@@ -2,13 +2,6 @@
  <h1 align="center">CUET Virtual Classroom</h2>
  <p align="center">CUET Virtual Classroom is an online web application made as the Lab project for CSE 300: Software Development Project.</p>
 </p>
-  
-![Main Features](https://img.shields.io/badge/Main%20features-Complete-brightgreen)
-
-![IDE](https://img.shields.io/badge/IDE-VIsual%20Studio%20Code-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-orange)
-![Grade](https://img.shields.io/badge/Grade-A%2B-lightgrey)
-
 
   <p align="center">
     <a href="https://img.shields.io/badge/Status-Work%20In%20Progress-brightgreen">
