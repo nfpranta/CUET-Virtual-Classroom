@@ -1,4 +1,6 @@
 <p align="center">
+  <img width="100px" src="https://cdn.discordapp.com/attachments/1008571199065964634/1071896754427002930/Pranta_a_psychedelic_logo_for_a_book_from_where_a_little_ray_of_895e637a-0cbe-4b46-b4de-07d1db81001a.png" align="center" alt="GitHub Readme Stats" />
+
  <h1 align="center">CUET Virtual Classroom</h2>
  <p align="center">CUET Virtual Classroom is an online web application made as the Lab project for CSE 300: Software Development Project.</p>
 </p>
