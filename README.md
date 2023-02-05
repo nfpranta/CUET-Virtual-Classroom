@@ -11,11 +11,14 @@
 
 
   <p align="center">
-    <a href="https://img.shields.io/badge/Status-Work%20In%20Progress-yellow">
-      <img src="https://img.shields.io/badge/Status-Complete-green" />
+    <a href="https://img.shields.io/badge/Status-Work%20In%20Progress-brightgreen">
+      <img src="https://img.shields.io/badge/Status-Complete-brightgreen"/>
     </a>
-    <a href="https://img.shields.io/badge/license-MIT-orange.svg">
-      <img alt="License" src="https://img.shields.io/badge/license-MIT-orange.svg" />
+    <a href="https://img.shields.io/badge/IDE-VIsual%20Studio%20Code-blueviolet">
+      <img src="https://img.shields.io/badge/IDE-VIsual%20Studio%20Code-blueviolet"/>
+    </a>
+    <a href="https://img.shields.io/badge/License-MIT-orange">
+      <img alt="License" src="https://img.shields.io/badge/License-MIT-orange" />
     </a>
     <a href="https://img.shields.io/badge/Grade-A%2B-yellowgreen">
       <img alt="Grade" src="https://img.shields.io/badge/Grade-A%2B-yellowgreen" />
