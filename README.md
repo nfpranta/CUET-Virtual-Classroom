@@ -1,6 +1,9 @@
-# CUET-Virtual-Classroom
-CUET Virtual Classroom is an online web application made as the Lab project for CSE 300: Software Development Project
 <p align="center">
+ <h1 align="center">CUET Virtual Classroom</h2>
+ <p align="center">CUET Virtual Classroom is an online web application made as the Lab project for CSE 300: Software Development Project.</p>
+</p>
+<p align="center">
+  
 ![Main Features](https://img.shields.io/badge/Main%20features-Complete-brightgreen)
 
 ![IDE](https://img.shields.io/badge/IDE-VIsual%20Studio%20Code-blueviolet)
@@ -8,6 +11,34 @@ CUET Virtual Classroom is an online web application made as the Lab project for 
 ![Grade](https://img.shields.io/badge/Grade-A%2B-lightgrey)
 </p>
 
+
+  <p align="center">
+    <a href="https://img.shields.io/badge/Status-Work%20In%20Progress-yellow">
+      <img src="https://img.shields.io/badge/Status-Complete-green" />
+    </a>
+    <a href="https://img.shields.io/badge/license-MIT-orange.svg">
+      <img alt="License" src="https://img.shields.io/badge/license-MIT-orange.svg" />
+    </a>
+    <a href="[https://img.shields.io/badge/license-MIT-orange.svg](https://img.shields.io/badge/Grade-A%2B-yellowgreen)">
+      <img alt="Grade" src="https://img.shields.io/badge/Grade-A%2B-yellowgreen" />
+    </a>
+    <br />
+  <h3 align="center">Built With</h3>
+  <h4 align="center">Frameworks and Dependencies</h4>
+  <p align="center">
+  <a href="https://firebase.google.com/">
+      <img src="https://img.shields.io/badge/Database-Firebase-yellowgreen?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    </a>
+    <a href="https://reactjs.org/">
+      <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white"/>
+    </a>
+    <a href="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    </a>
+    <a href="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+    </a>
+    </p>
 
 ## Team Members:
 * Adiba Sultana- 1804046
