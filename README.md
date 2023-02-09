@@ -61,8 +61,7 @@
 
 ## Signin
 Users can create a new account by registering with an email.
-![Signin](demoImages/signin1.jpg)
-![Signin](demoImages/signin2.png)
+![Signin](demoImages/signin1.jpg) | ![Signin](demoImages/signin2.png)
 
 ## Dashboard
 Users can create a new account by registering with an email.
@@ -118,7 +117,7 @@ Users can create a new account by registering with an email.
 
 ## Upload Post
 Users can create a new account by registering with an email.
-![Upload Post](demoImages/upload-post.png)
+![Upload Post](demoImages/upload_post.png)
 
 ## Comment
 Users can create a new account by registering with an email.
