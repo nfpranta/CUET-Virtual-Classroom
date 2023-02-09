@@ -59,6 +59,22 @@
 - [Upload Post](#upload-post)
 - [Comment](#comment)
 
+## Signin
+Users can create a new account by registering with an email.
+![Signin](demoImages/signup2.PNG)
+
+## Dashboard
+Users can create a new account by registering with an email.
+![Dashboard](demoImages/signup2.PNG)
+
+## Notifications
+Users can create a new account by registering with an email.
+![Notifications](demoImages/signup2.PNG)
+
+## Sidebar
+Users can create a new account by registering with an email.
+![Sidebar](demoImages/signup2.PNG)
+
 ## Resources:
 ### Tutorials:
 * [Basic React Tutorial by Learn with Sumit-LWS-Bangladesh](https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
