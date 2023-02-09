@@ -71,6 +71,7 @@ The interface of dashboard is similar for both students and teachers consisting 
 
 ## Notifications
 Teachers posting assignments or setting quiz time will be notified to the students who have joined to that particular class by using class code.
+
 ![Notifications](demoImages/notifications.png)
 
 ## Sidebar
@@ -80,28 +81,31 @@ Sidebar for both students and teachers is quite similar except the fact that tea
 
 ## Calendar
 This is a calendar routine for the students so that each and every student from different levels and terms can enable himself to observe different classes that is going to occur through out the semester and plan accordingly(13 weeks) 
+
 ![Calendar](demoImages/calendar.png)
 
 ## Profile
-Users can create a new account by registering with an email.
+Stuedents view consist of information relating to contact number,address,ID,email etc. whereas a teacher view consist of his/her name,designation and link to his/her online presence as well
+
 ![Profile](demoImages/profile.png)  
 
 ![Profile](demoImages/profile1.png)
 
 ## Edit Profile
-Users can create a new account by registering with an email.
+Both teacher and students have access to change their set data on their profile.
 ![Edit Profile](demoImages/edit-profile.png)
 
 ## Create Course
-Users can create a new account by registering with an email.
+Only teacher account has access to this particular feature.Student account can't open new class for any course.
 ![Create Course](demoImages/create-course.png)
 
 ## Publish Result
-Users can create a new account by registering with an email.
+Only teacher account has access to this particular feature.Any teacher can publish the CT marks and grade to all students who have joined in that class.
+
 ![Publish Result](demoImages/publish-result.png)
 
 ## Attendance
-Users can create a new account by registering with an email.
+Teacher can take attendance of students who are present.
 ![Attendance](demoImages/attendance.png)
 
 ## Display Result
