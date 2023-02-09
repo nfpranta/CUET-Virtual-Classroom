@@ -79,12 +79,14 @@ Users can create a new account by registering with an email.
 ![Sidebar](demoImages/sidebar1.png)    ![Sidebar](demoImages/sidebar2.png)
 
 ## Calendar
-Users can create a new account by registering with an email.
+This is a calendar routine for the students so that each and every student from different levels and terms can enable himself to observe different classes that is going to occur through out the semester and plan accordingly(13 weeks) 
 ![Calendar](demoImages/calendar.png)
 
 ## Profile
 Users can create a new account by registering with an email.
-![Profile](demoImages/profile.png)   ![Profile](demoImages/profile1.png)
+![Profile](demoImages/profile.png)  
+
+![Profile](demoImages/profile1.png)
 
 ## Edit Profile
 Users can create a new account by registering with an email.
