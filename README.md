@@ -7,7 +7,7 @@
 
   <p align="center">
     <a href="https://img.shields.io/badge/Status-Work%20In%20Progress-brightgreen">
-      <img src="https://img.shields.io/badge/Status-Complete-brightgreen"/>
+      <img src="https://img.shields.io/badge/Status-Complete-red"/>
     </a>
     <a href="https://img.shields.io/badge/IDE-VIsual%20Studio%20Code-blueviolet">
       <img src="https://img.shields.io/badge/IDE-VIsual%20Studio%20Code-blueviolet"/>
