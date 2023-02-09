@@ -41,6 +41,24 @@
 * Tahlil Abrar- 1804056
 * Zerin Shaima Meem- 1804057
 
+# Features
+- [Signin](#signin)
+- [Dashboard](#dashboard)
+- [Notifications](#notifications)
+- [Sidebar](#sidebar)
+- [Calendar](#calendar)
+- [Profile](#profile)
+- [Edit Profile](#edit-profile)
+- [Create Course](#create-course)
+- [Publish Result](#publish-result)
+- [Attendance](#attendance])
+- [Display Result](#display-result)
+- [Join Class](#join-class)
+- [Class List](#class-list)
+- [View Inside Classroom](#view-classroom)
+- [Upload Post](#upload-post)
+- [Comment](#comment)
+
 ## Resources:
 ### Tutorials:
 * [Basic React Tutorial by Learn with Sumit-LWS-Bangladesh](https://www.youtube.com/watch?v=5Xy-t8k_M4A&list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr)
