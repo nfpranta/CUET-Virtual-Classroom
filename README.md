@@ -62,66 +62,67 @@
 ## Signin
 Users can create a new account by registering with an email.
 ![Signin](demoImages/signin1.jpg)
+![Signin](demoImages/signin2.png)
 
 ## Dashboard
 Users can create a new account by registering with an email.
-![Dashboard](demoImages/signin2.png)
+![Dashboard](demoImages/dashboard.png)
 
 ## Notifications
 Users can create a new account by registering with an email.
-![Notifications](demoImages/notifications.PNG)
+![Notifications](demoImages/notifications.png)
 
 ## Sidebar
 Users can create a new account by registering with an email.
-![Sidebar](demoImages/signup2.PNG)
+![Sidebar](demoImages/sidebar1.png)
 
 ## Calendar
 Users can create a new account by registering with an email.
-![Calendar](demoImages/signup2.PNG)
+![Calendar](demoImages/calendar.png)
 
 ## Profile
 Users can create a new account by registering with an email.
-![Profile](demoImages/signup2.PNG)
+![Profile](demoImages/profile.png)
 
 ## Edit Profile
 Users can create a new account by registering with an email.
-![Edit Profile](demoImages/signup2.PNG)
+![Edit Profile](demoImages/edit-profile.png)
 
 ## Create Course
 Users can create a new account by registering with an email.
-![Create Course](demoImages/signup2.PNG)
+![Create Course](demoImages/create-course.png)
 
 ## Publish Result
 Users can create a new account by registering with an email.
-![Publish Result](demoImages/signup2.PNG)
+![Publish Result](demoImages/publish-result.png)
 
 ## Attendance
 Users can create a new account by registering with an email.
-![Attendance](demoImages/signup2.PNG)
+![Attendance](demoImages/attendance.png)
 
 ## Display Result
 Users can create a new account by registering with an email.
-![Display Result](demoImages/signup2.PNG)
+![Display Result](demoImages/display-result.png)
 
 ## Join Class
 Users can create a new account by registering with an email.
-![Join Class](demoImages/signup2.PNG)
+![Join Class](demoImages/join-class.png)
 
 ## Class List
 Users can create a new account by registering with an email.
-![Class List](demoImages/signup2.PNG)
+![Class List](demoImages/class-list.png)
 
 ## View Inside Classroom
 Users can create a new account by registering with an email.
-![View Inside Classroom](demoImages/signup2.PNG)
+![View Inside Classroom](demoImages/view.png)
 
 ## Upload Post
 Users can create a new account by registering with an email.
-![Upload Post](demoImages/signup2.PNG)
+![Upload Post](demoImages/upload-post.png)
 
 ## Comment
 Users can create a new account by registering with an email.
-![Comment](demoImages/signup2.PNG)
+![Comment](demoImages/comment.png)
 
 
 ## Resources:
