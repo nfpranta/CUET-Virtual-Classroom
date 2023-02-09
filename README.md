@@ -62,6 +62,7 @@
 
 ## Signin
 Users can create a new account by registering with an email.
+
 ![Signin](demoImages/signin1.jpg) ![Signin](demoImages/signin2.png)
 
 ## Dashboard
