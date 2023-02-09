@@ -63,7 +63,7 @@
 ## Signin
 Users can create a new account by registering with an email.
 
-![Signin](demoImages/signin1.jpg) ![Signin](demoImages/signin2.png)
+![Signin](demoImages/signin1.jpg)     ![Signin](demoImages/signin2.png)
 
 ## Dashboard
 Users can create a new account by registering with an email.
@@ -75,7 +75,8 @@ Users can create a new account by registering with an email.
 
 ## Sidebar
 Users can create a new account by registering with an email.
-![Sidebar](demoImages/sidebar1.png)
+
+![Sidebar](demoImages/sidebar1.png)    ![Sidebar](demoImages/sidebar2.png)
 
 ## Calendar
 Users can create a new account by registering with an email.
@@ -83,7 +84,7 @@ Users can create a new account by registering with an email.
 
 ## Profile
 Users can create a new account by registering with an email.
-![Profile](demoImages/profile.png)
+![Profile](demoImages/profile.png)   ![Profile](demoImages/profile1.png)
 
 ## Edit Profile
 Users can create a new account by registering with an email.
