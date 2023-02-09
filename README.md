@@ -61,20 +61,20 @@
 - [Comment](#comment)
 
 ## Signin
-Users can create a new account by registering with an email.
+Students and teachers can login to an already existing account.If they forget their password, a reset password link will be sent to their email.
 
 ![Signin](demoImages/signin1.jpg)     ![Signin](demoImages/signin2.png)
 
 ## Dashboard
-Users can create a new account by registering with an email.
+The interface of dashboard is similar for both students and teachers consisting of different classes for respective students and teachers.
 ![Dashboard](demoImages/dashboard.png)
 
 ## Notifications
-Users can create a new account by registering with an email.
+Teachers posting assignments or setting quiz time will be notified to the students who have joined to that particular class by using class code.
 ![Notifications](demoImages/notifications.png)
 
 ## Sidebar
-Users can create a new account by registering with an email.
+Sidebar for both students and teachers is quite similar except the fact that teachers can enable himself to create new classes and assign results of exams of a particular class to students who have joined in that class. And students can view the published results of different courses.
 
 ![Sidebar](demoImages/sidebar1.png)    ![Sidebar](demoImages/sidebar2.png)
 
