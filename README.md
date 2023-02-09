@@ -33,6 +33,7 @@
       <img src="https://img.shields.io/badge/-Django-darkgreen?style=for-the-badge&logo=django&logoColor=%2361DAFB"/>
     </a>
     </p>
+    </p>
 
 ## Team Members:
 * Adiba Sultana- 1804046
@@ -61,7 +62,7 @@
 
 ## Signin
 Users can create a new account by registering with an email.
-![Signin](demoImages/signin1.jpg) | ![Signin](demoImages/signin2.png)
+![Signin](demoImages/signin1.jpg) ![Signin](demoImages/signin2.png)
 
 ## Dashboard
 Users can create a new account by registering with an email.
