@@ -6,8 +6,8 @@
 </p>
 
   <p align="center">
-    <a href="https://img.shields.io/badge/Status-Work%20In%20Progress-brightgreen">
-      <img src="https://img.shields.io/badge/Status-Complete-red"/>
+    <a href="https://img.shields.io/badge/Status-Work%20In%20Progress-red">
+      <img src="https://img.shields.io/badge/Status-Incomplete-red"/>
     </a>
     <a href="https://img.shields.io/badge/IDE-VIsual%20Studio%20Code-blueviolet">
       <img src="https://img.shields.io/badge/IDE-VIsual%20Studio%20Code-blueviolet"/>
@@ -74,6 +74,55 @@ Users can create a new account by registering with an email.
 ## Sidebar
 Users can create a new account by registering with an email.
 ![Sidebar](demoImages/signup2.PNG)
+
+## Calendar
+Users can create a new account by registering with an email.
+![Calendar](demoImages/signup2.PNG)
+
+## Profile
+Users can create a new account by registering with an email.
+![Profile](demoImages/signup2.PNG)
+
+## Edit Profile
+Users can create a new account by registering with an email.
+![Edit Profile](demoImages/signup2.PNG)
+
+## Create Course
+Users can create a new account by registering with an email.
+![Create Course](demoImages/signup2.PNG)
+
+## Publish Result
+Users can create a new account by registering with an email.
+![Publish Result](demoImages/signup2.PNG)
+
+## Attendance
+Users can create a new account by registering with an email.
+![Attendance](demoImages/signup2.PNG)
+
+## Display Result
+Users can create a new account by registering with an email.
+![Display Result](demoImages/signup2.PNG)
+
+## Join Class
+Users can create a new account by registering with an email.
+![Join Class](demoImages/signup2.PNG)
+
+## Class List
+Users can create a new account by registering with an email.
+![Class List](demoImages/signup2.PNG)
+
+## View Inside Classroom
+Users can create a new account by registering with an email.
+![View Inside Classroom](demoImages/signup2.PNG)
+
+## Upload Post
+Users can create a new account by registering with an email.
+![Upload Post](demoImages/signup2.PNG)
+
+## Comment
+Users can create a new account by registering with an email.
+![Comment](demoImages/signup2.PNG)
+
 
 ## Resources:
 ### Tutorials:
