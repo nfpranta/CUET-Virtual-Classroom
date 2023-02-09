@@ -61,15 +61,15 @@
 
 ## Signin
 Users can create a new account by registering with an email.
-![Signin](demoImages/signup2.PNG)
+![Signin](demoImages/signin1.jpg)
 
 ## Dashboard
 Users can create a new account by registering with an email.
-![Dashboard](demoImages/signup2.PNG)
+![Dashboard](demoImages/signin2.png)
 
 ## Notifications
 Users can create a new account by registering with an email.
-![Notifications](demoImages/signup2.PNG)
+![Notifications](demoImages/notifications.PNG)
 
 ## Sidebar
 Users can create a new account by registering with an email.
